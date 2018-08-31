@@ -26,7 +26,7 @@
 # energy must be entered. Please keep the energy units consistent 
 # when entering all data)
 #
-2 Cu 1 Zn 1 Sn 4 Se -.35111139E+02
+2 Cu 1 Zn 1 Sn 4 S -.38630244E+02
 #
 # Now enter which element is to be set as the dependent variable (i.e.
 # given in terms of the other chemical potentials). If none is to be set,
@@ -34,7 +34,7 @@
 # set then only the intersection points with the compound of interest 
 # are relevant
 #
-Se
+S 
 # Next give the number of competing phases to be considered:
 #
 13
@@ -43,28 +43,28 @@ Se
 # the formula of the compound
 #
 1 
-8 Se -.35497048E+02
+8 S -.41886049E+02
 1
 4 Cu -.14558552E+02
 1
 2 Zn -.25103926E+01
 1
 2 Sn -.90809154E+01
-2 
-6 Cu 6 Se -.50970187E+02
 2
-96 Cu 48 Se -.59585809E+03
+96 Cu 48 S -.640897914201E+03
 2 
-1 Zn 1 Se -.74318581E+01
+1 Zn 1 S -.83901125E+01 
 2  
-4 Sn 4 Se -.39457437E+02
+4 Sn 4 S -.42524240E+02
 2
-1 Sn 2 Se -.14624532E+02
+1 Sn 2 S -.16275249E+02
 2 
-6 Cu 4 Se -.41863306E+02
+6 Cu 6 S -.56323675E+02
+3  
+8 Cu 4 Sn 12 S -.12036875E+03
 3
-8 Cu 4 Sn 12 Se -.11009516E+03
-3
-16 Cu 4 Sn 16 Se -.15948979E+03
-3
-3 Cu 1 Sn 4 Se -.36062549E+02
+16 Cu 4 Sn 16 S -.17358411E+03
+4 
+3 Cu 1 Sn 4 S -.39375710E+02
+4
+4 Cu 2 Zn 2 Sn 6 S -.64019270E+02
