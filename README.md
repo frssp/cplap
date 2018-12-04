@@ -11,8 +11,7 @@ A 3D plotting tool for [cplap](https://github.com/jbuckeridge/cplap).
 See example.  
 ![Phase diagram](example/pd.png)
 
-###
-variables in cddlib 
+### Variables in cddlib 
 - Generator: vertex
 - Halfspace: ineqaulity
  *   Inc   defines generator-halfspaces relations.  
